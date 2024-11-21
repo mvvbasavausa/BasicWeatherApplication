@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BasicWeatherApplication</string>
+    <string name="welcome_to_the_weather_app">Welcome to the Weather App</string>
+    <string name="enter_city">Enter City</string>
+    <string name="get_data">Get Data</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="_25_c">25</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="api_key">dbf8944de21d4280e9a23b2d6a15800b</string>
+    <string name="invalid_city_error_text">Please enter valid city</string>
+</resources>
